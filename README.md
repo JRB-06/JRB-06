@@ -1,8 +1,7 @@
 # Hi there 👋
 
 ## Technologies used
-!(c++)[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg]
-!(html)[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <!--
 **JRB-06/JRB-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
